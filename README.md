@@ -8,4 +8,5 @@ Let us make an impact
 
 ### TOGETHER WE CAN DO IT
 
-Here is my first addition to this repository that will include an understanding of electric-polarization conventions of a plane wave that runs behind most of these CAD-softwares dealing with electomagnetic anaysis
+Here is my first addition to this repository that will include an understanding of electric-polarization conventions of a plane wave that runs behind most of these CAD-softwares dealing with electomagnetic anaysis 
+https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/tree/master/EM-Polarization-Considerations
