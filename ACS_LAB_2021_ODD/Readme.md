@@ -69,6 +69,16 @@ own set of parameters which can be modified by user
 - Run simulation
 - View results with data display tools
 
+
+# Single Channel Point-Point Link
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/POINT%20TO%20POINT%20LINK.PNG)
+
+- Observe the optical spectrum at output of transmitter
+- Measure received optical power
+- Observe the electrical signals before and after transmission
+- Observe the electrical eye diagrams before and after transmission
+
 # PASSIVE OPTICAL NETWORK
 
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/PON.PNG)
@@ -76,3 +86,46 @@ own set of parameters which can be modified by user
 - Point-to-multipoint topology
 - Fiber plant is typically 20-25 km and unpowered
 - May include one or more splitting stages depending on location of ONUs
+
+# WDM Point-to-point Link
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/Capture.PNG)
+
+- Observe the optical spectrum at output of transmitter
+- Measure received optical power
+- Observe the electrical signals before and after transmission
+- Observe the electrical eye diagrams before and after transmission
+
+# LAB Experiment Rules
+
+- This is team assignment (2 persons) and the deadline is the day before next lab session
+### EXPERIMENT - 1
+
+- To familiarize with RSOFT-OPTISIM simulation tool
+
+### EXPERIMENT - 2
+
+**Design a 4 channel WDM system with the following specifications:**
+-Channel spacing = 100 GHz (total bandwidth 6.4 THz)
+-Transmission line rate = 10 Gb/s
+-NRZ modulation format, 215-1 PRBS pattern length
+-Transmission link length = 400 km
+-The design goal is to achieve error free transmission (BER < 10-9) for all channels
+- Design the transmitter and receiver modules, use of different ypes and combinations of fibers, location and number of EDFAs
+deployed are your choice
+
+**l parameters values must adhere to existing specifications in
+data sheets which can be found on-line**
+
+- Your report (max. 10 pages) must include
+- a printout of the schematic diagram of the system
+- the design methodology in order to achieve error free
+transmission (BER < 10-9) for all channels
+- printouts of the optical spectra of the multiplexed 64
+channels at the 0 km, 200 km and 400 km mark
+- printouts of BER plots (BER vs received optical power) of
+the four channels, Channel 1, Channel 17, Channel 39
+and Channel 64, and their corresponding eye diagrams at
+BER = 10-9
+- and any additional measurements to support your design
+methodology
