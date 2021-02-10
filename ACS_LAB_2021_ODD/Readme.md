@@ -68,3 +68,11 @@ own set of parameters which can be modified by user
 - Draw the schematic diagram, set parameter values of block models
 - Run simulation
 - View results with data display tools
+
+# PASSIVE OPTICAL NETWORK
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS LAB/blob/master/ACS_LAB_2021_ODD/RAW/POINT%20TO%20POINT%20LINK.PNG)
+
+- Point-to-multipoint topology
+- Fiber plant is typically 20-25 km and unpowered
+- May include one or more splitting stages depending on location of ONUs
