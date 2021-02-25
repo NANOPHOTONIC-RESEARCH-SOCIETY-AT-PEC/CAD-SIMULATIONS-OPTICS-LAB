@@ -69,6 +69,14 @@ own set of parameters which can be modified by user
 - Run simulation
 - View results with data display tools
 
+# LAB Experiment Rules
+
+- This is team assignment (2 persons) and the deadline is the day before next lab session
+### EXPERIMENT - 1 [DATED : 04/02/2021]
+
+- To familiarize with RSOFT-OPTISIM simulation tool
+
+### EXPERIMENT - 2 [DATED : 11/02/2021]
 
 # Single Channel Point-Point Link
 
@@ -79,13 +87,7 @@ own set of parameters which can be modified by user
 - Observe the electrical signals before and after transmission
 - Observe the electrical eye diagrams before and after transmission
 
-# PASSIVE OPTICAL NETWORK
-
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/PON.PNG)
-
-- Point-to-multipoint topology
-- Fiber plant is typically 20-25 km and unpowered
-- May include one or more splitting stages depending on location of ONUs
+### EXPERIMENT - 3 [DATED : 18/02/2021]
 
 # WDM Point-to-point Link
 
@@ -96,15 +98,7 @@ own set of parameters which can be modified by user
 - Observe the electrical signals before and after transmission
 - Observe the electrical eye diagrams before and after transmission
 
-# LAB Experiment Rules
-
-- This is team assignment (2 persons) and the deadline is the day before next lab session
-### EXPERIMENT - 1
-
-- To familiarize with RSOFT-OPTISIM simulation tool
-
-### EXPERIMENT - 2
-
+### EXPERIMENT - 4 [DATED : 25/02/2021]
 **Design a 4 channel WDM system with the following specifications:**
 -Channel spacing = 100 GHz (total bandwidth 6.4 THz)
 -Transmission line rate = 10 Gb/s
@@ -129,3 +123,12 @@ and Channel 64, and their corresponding eye diagrams at
 BER = 10-9
 - and any additional measurements to support your design
 methodology
+
+### EXPERIMENT - 5 [DATED : 04/03/2021]
+# PASSIVE OPTICAL NETWORK
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/PON.PNG)
+
+- Point-to-multipoint topology
+- Fiber plant is typically 20-25 km and unpowered
+- May include one or more splitting stages depending on location of ONUs
