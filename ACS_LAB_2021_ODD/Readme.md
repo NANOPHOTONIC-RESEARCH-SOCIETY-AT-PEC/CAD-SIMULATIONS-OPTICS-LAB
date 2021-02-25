@@ -134,6 +134,7 @@ methodology
 - Fiber plant is typically 20-25 km and unpowered
 - May include one or more splitting stages depending on location of ONUs
 
+# EXPERIMENT - 6 [DATED : 11/03/2021]
 ## FREE SPACE OPTICS
 
 **The goal is to demonstrate a design in OptSim of Free-Space Optical Communication Link with a
