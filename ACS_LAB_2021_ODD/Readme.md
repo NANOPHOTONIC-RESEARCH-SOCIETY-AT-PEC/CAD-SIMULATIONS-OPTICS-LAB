@@ -133,3 +133,25 @@ methodology
 - Point-to-multipoint topology
 - Fiber plant is typically 20-25 km and unpowered
 - May include one or more splitting stages depending on location of ONUs
+
+## FREE SPACE OPTICS
+
+**The goal is to demonstrate a design in OptSim of Free-Space Optical Communication Link with a
+free-space channel model based on weak-turbulence approximation.**
+
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/CAD-SIMULATIONS-OPTICS-LAB/blob/master/ACS_LAB_2021_ODD/RAW/FSO.jpg)
+
+- Free-space optical (FSO) communications, also known as wireless optical communications, is a cost-effective and high
+bandwidth access technique and has compelling economic advantages. 
+
+- With the potential high-data-rate capacity, low cost and particularly wide bandwidth on unregulated spectrum, 
+- FSO communications is an attractive solution for the “last mile” problem to bridge the gap between the end user and the fiber-optic infrastructure already in place.
+
+- In FSO communications, optical transceivers communicate directly through the air to form point-to-point line-of-sight links. 
+- The transmitter converts the electrical signal to an optical one and sends it through the atmosphere (free space).
+- The receiver converts the optical signal back to an electrical signal. 
+- The quality of the transmission line is characterized by the realized bit-error rate (BER).
+**REFER TO PAGE NO. 321 OF OPTISIM MANUAL FOR MORE INFO)
+
+
